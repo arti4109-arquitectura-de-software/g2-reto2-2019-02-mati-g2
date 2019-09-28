@@ -1,0 +1,10 @@
+﻿CACHE MANIFEST
+
+NETWORK:
+*
+
+CACHE:
+../Offline.html
+../Offline/application.js
+../Offline/indexeddb.shim.min.js
+../Offline/jquery-3.4.1.min.js
